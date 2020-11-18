@@ -4,8 +4,8 @@ Nesse cenário, a atividade dos investidores pode se tornar dificultosa, visto a
 
 Neste trabalho analisaremos métodos distintos utilizados para modelagem e previsão das séries temporais de ações do mercado através de métricas levando em conta os resultados encontrados por meio de duas aplicações próprias e por meio do estudo de uma técnica previamente estabelecida. 
 
-Trabalho feito pelas alunas:
-    - Ana Lívia
-    - Bruna Osti
-    - Katherina Akemi
+Trabalho feito pelas alunas: </br>
+    - Ana Lívia </br>
+    - Bruna Osti </br>
+    - Katherina Akemi </br>
     
